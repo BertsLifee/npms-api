@@ -37,7 +37,7 @@
     "@npms/queries": "^3.0.0",
     "bluebird": "^3.5.2",
     "config": "^2.0.1",
-    "elasticsearch": "^15.2.0",
+    "elasticsearch": "^16.7.3",
     "joi": "^14.0.2",
     "koa": "^1.2.0",
     "koa-bodyparser": "^2.2.0",
