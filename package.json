@@ -46,7 +46,7 @@
     "koa-response-time": "^1.0.2",
     "koa-router": "^5.4.0",
     "lodash": "^4.17.11",
-    "nano": "^7.1.0",
+    "nano": "^9.0.0",
     "pino": "^5.8.0",
     "require-directory": "^2.1.1",
     "validate-npm-package-name": "^3.0.0",
