@@ -39,7 +39,7 @@
     "config": "^2.0.1",
     "elasticsearch": "^15.2.0",
     "joi": "^14.0.2",
-    "koa": "^1.2.0",
+    "koa": "^3.0.1",
     "koa-bodyparser": "^2.2.0",
     "koa-ga-pageview": "^1.0.0",
     "koa-pino-logger": "^1.0.2",
